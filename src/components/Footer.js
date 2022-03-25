@@ -7,7 +7,7 @@ function Footer() {
       sx={{
         display: "flex",
         flexDirection: "column",
-        alignItems: "center bottom",
+        alignItems: "center",
         "& > *": {
           m: 20,
         },
