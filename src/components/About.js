@@ -51,9 +51,13 @@ export default function About() {
             </CardContent>
             <CardContent alignItems="center">
             <Stack spacing={4} direction="row" alignItems="center">  
-  <Button><LinkedInIcon></LinkedInIcon></Button>
-  <Button><GitHubIcon></GitHubIcon></Button>
-  <Button>Resume</Button>
+            <Button style={{ backgroundColor:"#e3f2fd"}} target={"_blank"} href="https://www.linkedin.com/in/lopez1004/"><LinkedInIcon></LinkedInIcon></Button>
+  <Button  style={{ backgroundColor:"#e3f2fd"}} target={"_blank"} href="https://github.com/ryanlopez12"><GitHubIcon></GitHubIcon></Button>
+  
+
+  <Button style={{ backgroundColor:"#e3f2fd"}} target={"_blank"} href="https://ibb.co/PwQDSNR">Resume</Button>
+
+
   </Stack>
 </CardContent>
           </Card>
