@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-rlopez/static/css/main.a4f29976.css",
+    "main.js": "/react-rlopez/static/js/main.8b76e95d.js",
+    "static/media/background.jpg": "/react-rlopez/static/media/background.9318e50c00d9c55fd77d.jpg",
+    "index.html": "/react-rlopez/index.html",
+    "main.a4f29976.css.map": "/react-rlopez/static/css/main.a4f29976.css.map",
+    "main.8b76e95d.js.map": "/react-rlopez/static/js/main.8b76e95d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f29976.css",
+    "static/js/main.8b76e95d.js"
+  ]
+}
